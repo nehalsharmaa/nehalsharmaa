@@ -1,0 +1,73 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body {
+  background-image: url("planet.jpg");
+  color:rgb(0,0,0);
+}
+.container {
+	padding:20px;
+	width:500px;
+	text-align:center;
+	margin:auto;
+	margin-top:5%;
+	background-color:rgba(255,255,255,0.4);
+        border-radius:2%;
+        color:rgb(0,0,0);
+}
+img {
+border-radius: 50%;
+}
+
+
+.box-name h1{
+	text-align:center;
+	color:rgb(0,0,0);
+}
+.box-name h2{
+	text-align:center;
+	color:rgb(0,0,0);
+}
+.skills p {
+	text-align:center;
+	font-size: 18px;
+        color:rgb(0,0,0)
+}	
+.heading h3{
+	text-align:center;
+}
+
+element.style{
+}
+
+.word{
+color: white;
+}
+
+h3{
+     background-color:rgba(255,130,67,0.4);
+     color: black;
+     font-size: 15px;
+}
+
+ul{
+color: black;
+border-style:dotted;
+    border-top-style: dotted;
+    border-right-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+border-color: rgba(255,130,67,0.6);
+list-style-position: inside;
+text-align: justify;
+margin-left: 100px;
+margin-right: 100px;
+}
+
+li{
+display: list-item;
+text-align: -webkit-match-parent;
+margin-left:15px;
+margin-right:50px;
+}
